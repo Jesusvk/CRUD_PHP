@@ -1,0 +1,50 @@
+a{
+	margin: 5%;
+	color: gold;
+	display: block;
+	font-size: 18px;
+	text-decoration: none;
+}
+.jum{
+	padding-top: 4%;
+	padding-bottom: 4%;
+	background: royalblue;
+	width:60%;
+	margin-right:20%;
+	margin-left:20%;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+.jum > a,p{
+	margin-left:25%;
+	margin-right:25%;
+}
+body{
+	background: yellowgreen;
+}
+h1{
+	text-align: center;
+	color: white;
+	text-decoration: overline;
+}
+.formulario{
+	display: block;
+}
+input{
+	width: 60%;
+	margin-left: 20px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+form{
+	background: silver;
+	padding-left: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	width: 40%;
+	border-radius: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
